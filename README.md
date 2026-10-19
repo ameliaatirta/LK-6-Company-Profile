@@ -1,8 +1,8 @@
 # TIRTA Group - Website Company Profile
 
 **Nama:** Amelia Ananda Tirtaputri  
-**NIM:** [Isi NIM Kamu di sini]  
-**Kelas:** [Isi Kelas Kamu di sini]  
+**NIM:** 2510502  
+**Kelas:** Pendidikan Ilmu Komputer - 3C 
 
 ## Deskripsi Website
 Website Company Profile untuk TIRTA Group (Est. 2011), sebuah holding company yang menaungi 4 lini usaha di bidang fashion, barang kreatif/kriya, dan manufaktur bordir (ESEA, KALA, ANANTA, TIRTABORDIR). Website ini dirancang dengan gaya *editorial minimalis* menggunakan React dan Tailwind CSS.
@@ -16,4 +16,4 @@ Website Company Profile untuk TIRTA Group (Est. 2011), sebuah holding company ya
 ## Cara Menjalankan Project
 1. Clone repository ini:
    ```bash
-   git clone <LINK_REPOSITORY_GITHUB_KAMU>
+   git clone https://github.com/ameliaatirta/LK-6-Company-Profile.git
