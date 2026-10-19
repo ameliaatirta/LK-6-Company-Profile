@@ -1,0 +1,61 @@
+export const companyInfo = {
+  name: "TIRTA GROUP",
+  established: "2011",
+  tagline: "Mengalir, Berkarya, Memberi Manfaat", // Tagline disingkat agar lebih ringkas & gampang diingat
+  description:
+    "Didirikan pada tahun 2011, TIRTA Group hadir sebagai wadah yang menaungi berbagai unit usaha di bidang fashion, barang kreatif, dan layanan manufaktur bordir. Seperti air yang memberi kehidupan, setiap brand kami tumbuh dengan karakter uniknya masing-masing, terikat oleh komitmen pada kualitas, integritas, dan kebermanfaatan bersama.",
+};
+
+export const brandsData = [
+  {
+    id: "esea",
+    name: "ESEA",
+    category: "Women's Fashion",
+    tagline: "Radiate Beauty in Serenity",
+    instagram: "@esea.id",
+    description: "Busana wanita yang memadukan ketenangan, keanggunan, dan kesederhanaan modern.",
+    story: "ESEA dirancang untuk wanita modern yang menghargai kenyamanan tanpa mengorbankan estetika. Setiap koleksi memancarkan keanggunan yang tenang dengan potongan minimalis dan material premium."
+  },
+  {
+    id: "kala",
+    name: "KALA",
+    category: "Creative & Handmade Goods",
+    tagline: "Meréka rasa dan karya",
+    instagram: "@realkala.id",
+    description: "Ruang ekspresi kerajinan tangan kreatif yang mengolah rasa dan detail menjadi produk unik.",
+    story: "KALA merayakan keindahan buatan tangan. Melalui proses rajut dan kriya yang teliti, KALA menghadirkan produk yang membawa rasa dan cerita unik di setiap hasil karyanya."
+  },
+  {
+    id: "ananta",
+    name: "ANANTA",
+    category: "Men's Fashion",
+    tagline: "Made for Your Own Direction",
+    instagram: "@ananta.men",
+    description: "Lini pakaian pria berkarakter tegas, timeless, dan minimalis.",
+    story: "ANANTA hadir bagi pria yang percaya diri dengan gayanya. Menawarkan potongan terstruktur, daya tahan tinggi, dan desain yang selalu relevan melintasi waktu."
+  },
+  {
+    id: "tirtabordir",
+    name: "TIRTABORDIR",
+    category: "Embroidery Services",
+    tagline: "Precision in Every Stitch",
+    instagram: "@bordir.bytirta", // Updated ke @bordir.bytirta
+    description: "Layanan manufaktur bordir profesional dengan presisi tinggi dan kerapian detail.",
+    story: "Spesialis dalam jasa bordir komputer dan manual skala mikro hingga industri. TIRTABORDIR menjamin ketepatan detail, ketahanan benang, dan hasil berkualitas tinggi."
+  }
+];
+
+export const portfolioData = [
+  { id: 1, title: "Serene Linen Collection", brandId: "esea", category: "Women's Fashion", year: "2026" },
+  { id: 2, title: "Handcrafted Crochet Keyholder", brandId: "kala", category: "Handmade Goods", year: "2026" },
+  { id: 3, title: "Essential Everyday Shirt", brandId: "ananta", category: "Men's Fashion", year: "2025" },
+  { id: 4, title: "Custom Monogram Embroidery", brandId: "tirtabordir", category: "Embroidery", year: "2026" }
+];
+
+export const teamData = [
+  { id: 1, name: "Euis Habibah", role: "Founder & Executive Director" },
+  { id: 2, name: "Epih Supratman", role: "Co-Founder & Chief Executive Officer (CEO)" },
+  { id: 3, name: "Andhika Tirta Prana Ardhi", role: "Chief Operating Officer (COO)" },
+  { id: 4, name: "Amelia Ananda Tirtaputri", role: "Head of Creative & Brand Strategy" },
+  { id: 5, name: "Shalyra Tirta Puspa Lastari", role: "Head of Production & Quality Control" }
+];
